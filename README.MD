@@ -1,6 +1,7 @@
 # Projeto GTA V
 
 ![Descrição da Imagem](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1sMXJ5OXdodzNoZDgzdG8ybnI5aGRhNzY1ZGV0N2xlMjZuMmw5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wNiTFhWCdlC8g/giphy.gif)
+#
 Este é um projeto de exemplo para uma página web sobre o jogo Grand Theft Auto V (GTA V).
 
 ## Estrutura do Projeto
