@@ -35,9 +35,4 @@ A estrutura do projeto é a seguinte:
 
 1. Clone o repositório.
 2. Abra o arquivo `index.html` em um navegador web.
-
-## Clonando o Repositório
-
-Para clonar o repositório, execute o seguinte comando no seu terminal:
-
 ```bash
