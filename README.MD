@@ -43,7 +43,7 @@ Este é um projeto de exemplo para uma página web sobre o jogo Grand Theft Auto
 ## 📸 Imagens do Projeto
 
 ![Imagem 1](src/imagens/favicon.png)
-![Imagem 2](src/imagens/logo-gta-v.svg)
+![Imagem 2](src/imagens/logo-ps5.svg)
 ![Imagem 3](src/imagens/gta-v-3.jpg)
 ![Imagem 4](src/imagens/gta-v-4.jpg)
 ![Imagem 5](src/imagens/gta-v-5.jpg)
