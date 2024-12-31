@@ -1,11 +1,10 @@
-# Projeto GTA V
-
+# 🎮 Projeto GTA V
 
 ![Descrição da Imagem](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1sMXJ5OXdodzNoZDgzdG8ybnI5aGRhNzY1ZGV0N2xlMjZuMmw5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wNiTFhWCdlC8g/giphy.gif)
 
 Este é um projeto de exemplo para uma página web sobre o jogo Grand Theft Auto V (GTA V).
 
-## Descrição dos Arquivos
+## 📂 Descrição dos Arquivos
 
 - **index.html**: Arquivo principal da página web.
 - **.gitattributes**: Configurações de atributos do Git.
@@ -21,13 +20,13 @@ Este é um projeto de exemplo para uma página web sobre o jogo Grand Theft Auto
 - **src/js**: Contém os arquivos JavaScript.
   - **index.js**: Script principal para interatividade da página.
 
-## Funcionalidades
+## 🌟 Funcionalidades
 
 - **Cabeçalho**: Contém o logo e o menu de navegação.
 - **Seção Home**: Apresenta informações sobre o jogo e um botão para compra.
 - **Seção Compre Já**: Detalhes sobre a compra do jogo, incluindo seleção de plataforma.
 
-## Como Executar
+## 🚀 Como Executar
 
 1. Clone o repositório:
     ```sh
@@ -41,7 +40,7 @@ Este é um projeto de exemplo para uma página web sobre o jogo Grand Theft Auto
 
 3. Abra o arquivo `index.html` em um navegador web.
 
-## Imagens do Projeto
+## 📸 Imagens do Projeto
 
 ![Imagem 1](src/imagens/gta-v-1.jpg)
 ![Imagem 2](src/imagens/gta-v-2.jpg)
@@ -49,7 +48,7 @@ Este é um projeto de exemplo para uma página web sobre o jogo Grand Theft Auto
 ![Imagem 4](src/imagens/gta-v-4.jpg)
 ![Imagem 5](src/imagens/gta-v-5.jpg)
 
-## Melhorias Sugeridas
+## 💡 Melhorias Sugeridas
 
 - **SEO**: Adicione meta tags para melhorar a otimização para motores de busca.
 - **Acessibilidade**: Garanta que a página seja acessível para todos os usuários, incluindo aqueles com deficiências.
@@ -58,3 +57,5 @@ Este é um projeto de exemplo para uma página web sobre o jogo Grand Theft Auto
 - **Conteúdo**: Expanda o conteúdo das seções para fornecer mais informações sobre o jogo e suas funcionalidades.
 
 Siga essas sugestões para melhorar a qualidade e a usabilidade do seu projeto de página web sobre GTA V.
+
+![GTA V](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
