@@ -48,14 +48,7 @@ Este é um projeto de exemplo para uma página web sobre o jogo Grand Theft Auto
 ![Imagem 4](src/imagens/gta-v-4.jpg)
 ![Imagem 5](src/imagens/gta-v-5.jpg)
 
-## 💡 Melhorias Sugeridas
+#
 
-- **SEO**: Adicione meta tags para melhorar a otimização para motores de busca.
-- **Acessibilidade**: Garanta que a página seja acessível para todos os usuários, incluindo aqueles com deficiências.
-- **Performance**: Otimize as imagens e os arquivos CSS/JS para melhorar o tempo de carregamento da página.
-- **Interatividade**: Adicione mais interatividade com JavaScript, como animações e efeitos ao passar o mouse.
-- **Conteúdo**: Expanda o conteúdo das seções para fornecer mais informações sobre o jogo e suas funcionalidades.
-
-Siga essas sugestões para melhorar a qualidade e a usabilidade do seu projeto de página web sobre GTA V.
 
 ![GTA V](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHI0eWgxcm11dzJpdG93dnJhbzNoZjdpNm5leDhsMTk3bzlmdzU4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0Wzkc9iirQ4ZI7JoaD/giphy.gif)
