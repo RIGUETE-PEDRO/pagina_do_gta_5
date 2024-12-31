@@ -30,4 +30,4 @@ Este é um projeto de exemplo para uma página web sobre o jogo Grand Theft Auto
 
 1. Clone o repositório.
 2. Abra o arquivo `index.html` em um navegador web.
-```bash
+
