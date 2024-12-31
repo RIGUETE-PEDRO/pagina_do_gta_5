@@ -58,4 +58,4 @@ Este é um projeto de exemplo para uma página web sobre o jogo Grand Theft Auto
 
 Siga essas sugestões para melhorar a qualidade e a usabilidade do seu projeto de página web sobre GTA V.
 
-![GTA V](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![GTA V](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHI0eWgxcm11dzJpdG93dnJhbzNoZjdpNm5leDhsMTk3bzlmdzU4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0Wzkc9iirQ4ZI7JoaD/giphy.gif)
