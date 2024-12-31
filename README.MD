@@ -4,11 +4,6 @@
 #
 Este é um projeto de exemplo para uma página web sobre o jogo Grand Theft Auto V (GTA V).
 
-## Estrutura do Projeto
-
-A estrutura do projeto é a seguinte:
-.gitattributes index.html README.MD src/ css/ src/css/estilos.css src/css/fontes.css src/css/reset.css src/css/responsivo.css fontes/ src/fontes/ChaletComprime.ttf imagens/ js/ src/js/index.js
-
 ## Descrição dos Arquivos
 
 - **index.html**: Arquivo principal da página web.
